@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/fractal-drawer.iml" filepath="$PROJECT_DIR$/.idea/fractal-drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fractals.iml" filepath="$PROJECT_DIR$/.idea/fractals.iml" />
     </modules>
   </component>
 </project>
